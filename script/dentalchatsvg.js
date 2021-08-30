@@ -1,0 +1,72 @@
+const healthyTooth = `<svg id="healthyTooth"
+width="59"
+height="57"
+xmlns="http://www.w3.org/2000/svg"
+>
+<g>
+  <rect
+    stroke-width="2"
+    rx="3"
+    id="svg_16"
+    height="56.98565"
+    width="59.13876"
+    y="0.00822"
+    x="0"
+    stroke="#000"
+    fill="#fff"
+  />
+  <rect
+    rx="2"
+    id="svg_1"
+    height="33.0622"
+    width="33.30143"
+    y="11.73071"
+    x="12.91866"
+    stroke="#000"
+    fill="#fff"
+  />
+  <line
+    stroke-dasharray="5,2,2,2"
+    transform="rotate(90, 52.1397, 6.33144)"
+    id="svg_5"
+    y2="0"
+    x2="46.10999"
+    y1="12.66288"
+    x1="58.16945"
+    stroke="#000"
+    fill="none"
+  />
+  <line
+    stroke-dasharray="5,2,2,2"
+    transform="rotate(90, 8.30864, 48.5523)"
+    id="svg_12"
+    y2="41.86198"
+    x2="2.15929"
+    y1="55.24257"
+    x1="14.45799"
+    stroke="#000"
+    fill="none"
+  />
+  <line
+    stroke-dasharray="5,2,2,2"
+    id="svg_13"
+    y2="43.05809"
+    x2="44.02532"
+    y1="55.48174"
+    x1="57.04172"
+    stroke="#000"
+    fill="none"
+  />
+  <line
+    stroke-dasharray="5,2,2,2"
+    id="svg_15"
+    y2="0.71359"
+    x2="0.96312"
+    y1="12.1803"
+    x1="13.97952"
+    stroke="#000"
+    fill="none"
+  />
+  <rect class="chartClickLayer" id="chartClickLayer" x="0" y="0" width="56" height="59" onclick="chartingMenu()" />
+</g>
+</svg>`
