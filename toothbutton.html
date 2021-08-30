@@ -12,12 +12,11 @@
   <body>
     <h2>TOOTH CHART</h2>
     <div class="tooth">
-      18 <br />
-      <svg id="ur8svg"
+      <p id="tooth"><svg id="tooth"
         width="59"
         height="57"
         xmlns="http://www.w3.org/2000/svg"
-      >
+        >
         <g>
           <rect
             stroke-width="2"
@@ -82,9 +81,10 @@
             stroke="#000"
             fill="none"
           />
-          <rect class="toothButtonUR8" id="toothButtonUR8" x="0" y="0" width="56" height="59" onclick="chartingMenu()" />
+          <rect class="chartClickLayer" id="chartClickLayer" x="0" y="0" width="56" height="59" onclick="chartingMenu()" />
         </g>
-      </svg>
+        </svg>`</p>
+    </div>
 
     <div id="myDropdown" class="dropdown-content">
       <a id="missing" onclick="missing()">Missing</a>
@@ -97,6 +97,5 @@
       <a id="implant" onclick="implant()">Implant</a>
       <a id="healthy" onclick="healthy()">Healthy</a>
     </div>
-  </div>
   </body>
 </html>
