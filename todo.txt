@@ -1,0 +1,14 @@
+chart carious surfaces and filling surfaces
+
+ability to chart multiple things
+
+Save the chart in association with a patient
+
+    create patients
+
+    save patients
+
+    search patients
+
+    chart becomes a part of the patient data
+
