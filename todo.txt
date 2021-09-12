@@ -1,4 +1,5 @@
-chart carious surfaces and filling surfaces
+chart carious surfaces and filling surfaces - complete
+only chart allowable surfaces modbp
 
 ability to chart multiple things
 
